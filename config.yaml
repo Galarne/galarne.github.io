@@ -1,0 +1,60 @@
+baseURL: https://galarne.fr/
+defaultContentLanguage: fr
+languageCode: fr-fr
+title: Galarne
+theme: bootpro
+copyright: Galarne SAS
+
+languages:
+  fr:
+    languageName: Français
+    weight: 1
+
+params:
+  logo: /img/logo.png
+  favicon : true
+  useStoryset: 1
+  useDrawkit: 1
+  email: hello@galarne.fr
+  phone:
+  errorPicture: /img/404.svg
+
+  googleFont: "https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+
+  legal:
+    company: Galarne SAS
+
+  nav:
+    - title: Nous Contacter
+      link: /TODO
+
+  footer:
+    nav:
+      - section:
+      - section:
+        subsections:
+        - title : Mentions légales
+          link : /mentions-legales
+      - section:
+
+
+disableKinds:
+- taxonomy
+- tags
+- term
+
+sitemap:
+  changefreq: monthly
+  filename: sitemap.xml
+  priority: 1
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+frontmatter:
+  lastmod:
+  - lastmod
+  - :fileModTime
+  - :default
