@@ -1,0 +1,3 @@
+[submodule "themes/bootpro"]
+	path = themes/bootpro
+	url = https://github.com/EChaffraix/bootpro.git
