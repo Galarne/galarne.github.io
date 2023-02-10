@@ -118,3 +118,10 @@ use.fill-yellow{
 .navbar li a:hover {
 border: 1px solid var(--theme-blue);
 }
+
+.clients {
+    text-align: center;
+}
+.clients > .content > img {
+    max-height: 75px;
+}

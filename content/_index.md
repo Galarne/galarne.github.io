@@ -59,5 +59,21 @@ Squad complète et complémentaire pour développer l’ensemble de vos exigence
 ### Rocket
 Team de choc composée d’un leader et d’un coordinateur métier pour concevoir votre solution dans les moindres détails
 
+{{</ auto-columns >}}
+
+## Ils nous font confiance
+
+
+{{< auto-columns class="clients mt-4" >}}
+
+{{< img src="/img/logo-bolden.png" alt="Logo de la société Bolden, plateforme de crowdfunding, crowdlending" >}}
+
+----
+
+{{< img src="/img/logo-crafty.svg" alt="Logo de la société Crafty. Outil RH pour valoriser les compétences des collaborateurs en entreprise." >}}
+
+----
+
+{{< img src="/img/logo-sourcyou.png" alt="Logo de Sourcyou, le sourcing des candidats." >}}
 
 {{</ auto-columns >}}
