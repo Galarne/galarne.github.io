@@ -37,8 +37,18 @@ h4 {
     font-weight: 800;
 }
 
+main>h1 {
+    border-bottom: none;
+    margin-bottom: 0;
+}
+
 .line-with-picture {
     border: none !important;
+}
+
+.line-with-picture .content>h1,.line-with-picture .content>h2 {
+    margin-top: 0;
+    margin-bottom: var(--bs-gutter-x);
 }
 
 .row {
@@ -113,10 +123,12 @@ use.fill-yellow{
 .navbar li a {
     /* color: white; */
     background-color: var(--theme-blue);
+    color: white;
     font-weight: bold;
 }
 .navbar li a:hover {
-border: 1px solid var(--theme-blue);
+    border: 1px solid var(--theme-blue);
+    color: white;
 }
 
 .clients {

@@ -8,32 +8,32 @@ class: sweet-home
 
 {{< line-with-picture src="/img/instant-information-pana.svg" alt="TODO" >}}
 
-## Les concepteurs de vos applications
+# Les concepteurs de vos applications
 Situé à Angers, Galarne vous accompagne de A à Z dans la réalisation de vos solutions numériques.
 
 {{</ line-with-picture >}}
 
 {{< line-with-picture position="left" src="/img/sync-cuate.svg" alt="TODO" >}}
 
-### Un savoir-faire polyvalent
+## Un savoir-faire polyvalent
 Nous répondons à vos besoins mobile ou web pour toutes les typologies de projets : logiciel métier, outils SaaS, digitalisation de process…
 
 {{</ line-with-picture >}}
 
 {{< line-with-picture src="/img/qa-engineers-amico.svg" alt="TODO" >}}
 
-### Qualité, sécurité et conformité en priorité
+## Qualité, sécurité et conformité en priorité
 Nous suivons l’état de l’art en matière de **qualité** via l’approche **clean code** ainsi qu’en terme de **sécurité** par le suivi des bonnes pratiques de la communauté **OWASP**. Notre expertise inclus les obligations légales comme la **RGPD** et l’accessibilité.
 
 {{</ line-with-picture >}}
 
-## Nos services
+# Nos services
 
 De l’idée à l’exploitation
 
 _BIENTÔT_
 
-## Nos équipes
+# Nos équipes
 
 Un partenariat sur-mesure avec des équipes dimensionnées en fonction de vos besoins
 
@@ -61,7 +61,7 @@ Team de choc composée d’un leader et d’un coordinateur métier pour concevo
 
 {{</ auto-columns >}}
 
-## Ils nous font confiance
+# Ils nous font confiance
 
 
 {{< auto-columns class="clients mt-4" >}}
