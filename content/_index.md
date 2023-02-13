@@ -23,7 +23,7 @@ Nous répondons à vos besoins mobile ou web pour toutes les typologies de proje
 {{< line-with-picture src="/img/qa-engineers-amico.svg" alt="TODO" >}}
 
 ### Qualité, sécurité et conformité en priorité
-Nous suivons l’état de l’art en matière de **qualité** via l’approche **clean code** ainsi qu’en terme de **sécurité** par le suivi des bonne pratiques de la communauté **OWASP**. Notre expertise inclus les obligations légales comme la **RGPD** et l’accessibilité.
+Nous suivons l’état de l’art en matière de **qualité** via l’approche **clean code** ainsi qu’en terme de **sécurité** par le suivi des bonnes pratiques de la communauté **OWASP**. Notre expertise inclus les obligations légales comme la **RGPD** et l’accessibilité.
 
 {{</ line-with-picture >}}
 
