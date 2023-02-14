@@ -4,6 +4,7 @@ draft: false
 tags: []
 summary: ""
 class: sweet-home
+pagescript: "home.js"
 ---
 
 {{< line-with-picture src="/img/instant-information-pana.svg" alt="TODO" >}}
@@ -27,11 +28,68 @@ Nous suivons l’état de l’art en matière de **qualité** via l’approche *
 
 {{</ line-with-picture >}}
 
+<section class="services">
+
 # Nos services
 
 De l’idée à l’exploitation
 
-_BIENTÔT_
+{{< logotype-services >}}
+
+<div class="custom-tooltip">
+
+<div class="red">
+
+## Idéation
+
+Conseils vis-à-vis de vos besoin, challenge de la solution par rapport à vos contraintes de budget et de délais.
+
+</div>
+<div class="orange">
+
+## Architecture
+
+Analyse technique, proposition de découpage
+
+</div>
+<div class="yellow">
+
+## Développement
+
+Utilisation de langages éprouvées et supportées par de grandes sociétés. Développement piloté par les tests.
+
+</div>
+<div class="green">
+
+## Tests
+
+Tests en interne avant livraison, accompagnement à la recette
+
+</div>
+<div class="blue">
+
+## Déploiement
+
+Fréquents, automatique, transparents pour l’utilisateur final
+
+</div>
+<div class="darkblue">
+
+## Hébergement
+
+En France, dimensionnement adapté à la solution, scalable
+
+</div>
+<div class="violet">
+
+## Maintenance
+
+Audit fréquent, mises à jour de sécurité.
+
+</div>
+</div>
+
+</section>
 
 # Nos équipes
 
