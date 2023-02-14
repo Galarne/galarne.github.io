@@ -1,27 +1,30 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="-70 -30 290 200">
   <defs>
     <style>
-      svg > g >  line { stroke-width:2; stroke:black; }
-      svg > g > text { font-size: 10px; }
+      svg > g >  line { stroke-width:1.5; stroke:black; }
+      svg > g > text { font-size: 8px; }
+
+      
+      svg > g.active >  line { stroke-width:2.5; ; }
+      svg > g.active > text { font-size: 10px; font-weight: bold; }
+
+      svg > g.active > path { stroke-width: 5px; }
 
       .svg-red path { fill: #e62e23; }
-
       .svg-orange path { fill: #ed6e26; }
-
       .svg-yellow path { fill: #ffdb10; }
-
       .svg-green path { fill: #71ba6a; }
       .svg-blue path { fill: #509ed7; }
       .svg-darkblue path { fill: #19598c; }
       .svg-violet path { fill: #b25ea1; }
 
-      .svg-red circle, .svg-red line { stroke:#e62e23; }
-      .svg-orange circle, .svg-orange line { stroke: #ed6e26; fill:#ed6e26; }
-      .svg-yellow circle, .svg-yellow line { stroke: #ffdb10; fill: #ffdb10; }
-      .svg-green circle, .svg-green line  { stroke: #71ba6a; fill: #71ba6a; }
-      .svg-blue circle, .svg-blue line  { stroke: #509ed7; fill: #509ed7; }
-      .svg-darkblue circle, .svg-darkblue line  { stroke: #19598c; fill: #19598c; }
-      .svg-violet circle, .svg-violet line  { stroke: #b25ea1; fill: #b25ea1; }
+      .active.svg-red > path, .svg-red circle, .svg-red line { stroke:#e62e23; fill: #e62e23; }
+      .active.svg-orange > path, .svg-orange circle, .svg-orange line { stroke: #ed6e26; fill:#ed6e26; }
+      .active.svg-yellow > path, .svg-yellow circle, .svg-yellow line { stroke: #ffdb10; fill: #ffdb10; }
+      .active.svg-green > path, .svg-green circle, .svg-green line  { stroke: #71ba6a; fill: #71ba6a; }
+      .active.svg-blue > path, .svg-blue circle, .svg-blue line  { stroke: #509ed7; fill: #509ed7; }
+      .active.svg-darkblue > path, .svg-darkblue circle, .svg-darkblue line  { stroke: #19598c; fill: #19598c; }
+      .active.svg-violet > path, .svg-violet circle, .svg-violet line  { stroke: #b25ea1; fill: #b25ea1; }
 
       .svg-red rect,
       .svg-orange rect,
@@ -52,7 +55,7 @@
   <path d="m89.34,130.39c.49,1.49.77,3.07.77,4.73,0,.91-.09,1.8-.25,2.67,7.4-1.61,14.35-4.36,20.64-8.07-1.79-1.68-3.17-3.79-3.97-6.17-5.27,3.07-11.05,5.4-17.19,6.84Z"/>
 
 
-  <g class="point svg-red">
+  <g class="point svg-red active">
       <path d="m121.42,18.67c-1.76,0-3.42.47-4.85,1.28-2.18,1.23-3.86,3.27-4.61,5.7-.29.92-.44,1.9-.44,2.92,0,5.46,4.44,9.9,9.9,9.9,1.07,0,2.1-.17,3.06-.49,2.42-.79,4.44-2.49,5.64-4.69.76-1.4,1.2-3.01,1.2-4.72,0-5.46-4.44-9.9-9.9-9.9Z"/>
       <line x1="121" y1="28" x2="136" y2="13" />
       <line x1="136" y1="13" x2="185" y2="13"  />

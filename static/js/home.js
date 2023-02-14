@@ -1,16 +1,22 @@
 items = document.getElementsByClassName('point')
 
 for (const item of items) {
-    item.addEventListener("mouseover", displayTooltip, false);
-    item.addEventListener("mouseout", hideTooltip, false);
+    item.addEventListener("click", displayTooltip, false);
 }
 
 
 function displayTooltip(event) {
-    var color = this.classList.value.replace(/point svg-/, "");
-    console.log("over : " + color)
-}
+    if (this.classList.value.search("active") == -1) {
+            const color = this.classList.value.replace(/point svg-/, "");
+        
+        const points = [...this.parentElement.getElementsByClassName("point")];
+        points.forEach(e => e.classList.remove("active"));
 
-function hideTooltip(event) {
-    console.log("out")
+        const customTooltip = document.getElementById("custom-tooltip");
+        [... customTooltip.children].forEach(e => e.classList.remove("active"))
+        
+        this.classList.add("active");
+        customTooltip.getElementsByClassName(color)[0].classList.add("active");
+    // console.log("over : " + color)}
+    }
 }
