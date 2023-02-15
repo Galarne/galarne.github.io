@@ -26,7 +26,7 @@ params:
 
   nav:
     - title: Nous Contacter
-      link: /TODO
+      link: "https://forms.monday.com/forms/b97609fa0de2cd29273295ff17ebb6a0?r=euc1"
 
   footer:
     nav:
