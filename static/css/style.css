@@ -1,4 +1,4 @@
-  /* 
+  /*
     xs: 0,
   sm: 576px,
   md: 768px,
@@ -24,8 +24,10 @@
     --footer-fg: var(--bs-body-color);
     --bs-primary: #4A9FE0;
     --bs-primary-rgb: 74, 159, 224;
+
     --bs-body-font-family: "Josefin Sans";
     --bs-body-font-size: 1.3rem;
+    --bs-body-line-height: 1.3
 }
 
 h1,
@@ -54,11 +56,12 @@ main>h1 {
     margin-bottom: 0;
 }
 
-main >  .row:nth-child(1) 
+main >  .row:nth-child(1)
 {
     margin-top: 80px;
     margin-bottom: 120px;
     font-size: 2rem;
+    line-height: 2.5rem;
 }
 
 .line-with-picture {
@@ -141,7 +144,7 @@ div.external-credit {
 use.fill-red, use.fill-green, use.fill-yellow {
     fill: var(--bs-gray-700);
 }
-/* 
+/*
 use.fill-red {
     fill: var(--theme-red)
 }
@@ -160,9 +163,7 @@ use.fill-yellow {
 }
 
 .navbar li a {
-    /* color: white; */
     background-color: var(--theme-blue);
-    color: white;
     font-weight: bold;
 }
 
@@ -204,6 +205,13 @@ use.fill-yellow {
     border-radius: var(--bs-gutter-x);
 
     font-size: 1.1rem;
+}
+
+.custom-tooltip > div > h2 ~ p {
+    display: none;
+}
+.custom-tooltip > div.active > h2 ~ p {
+    display: block;
 }
 
 
@@ -258,7 +266,7 @@ div.violet h2 { text-decoration-color: var(--theme-violet); }
     .custom-tooltip > div {
         display: none;
     }
-    
+
     .custom-tooltip > div.active {
         display: block;
     }
@@ -278,5 +286,13 @@ div.violet h2 { text-decoration-color: var(--theme-violet); }
 
     .custom-tooltip > div {
         border: none;
+    }
+
+    .custom-tooltip > div > h2:before, .custom-tooltip > div > h2:after {
+        content: "\25B2";
+    }
+
+    .custom-tooltip > div.active > h2:before, .custom-tooltip > div.active > h2:after {
+        content: "\25BC";
     }
 }

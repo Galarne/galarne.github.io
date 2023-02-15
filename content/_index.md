@@ -7,7 +7,7 @@ class: sweet-home
 pagescript: "home.js"
 ---
 
-{{< line-with-picture src="/img/instant-information-pana.svg" alt="TODO" >}}
+{{< line-with-picture src="/img/instant-information-pana.svg" decorative="true" >}}
 
 # Les concepteurs de vos applications
 
@@ -18,7 +18,7 @@ Vous imaginez les **fonctionnalités**, nous forgeons votre **produit**.
 
 {{</ line-with-picture >}}
 
-{{< line-with-picture position="left" src="/img/sync-cuate.svg" alt="TODO" >}}
+{{< line-with-picture position="left" src="/img/sync-cuate.svg" decorative="true" >}}
 
 ## Un savoir-faire polyvalent
 
@@ -31,7 +31,7 @@ Avec notre expérience, vous bénéficiez de **compétences tech** et d'**expert
 
 {{</ line-with-picture >}}
 
-{{< line-with-picture src="/img/qa-engineers-amico.svg" alt="TODO" >}}
+{{< line-with-picture src="/img/qa-engineers-amico.svg" decorative="true" >}}
 
 ## Qualité, sécurité et conformité en priorité
 
@@ -149,7 +149,7 @@ Situées à Angers, **Galarne** vous propose des **équipes Tech** dimensionnée
 
 {{< auto-columns class="tile home-teams" >}}
 
-{{< svg-inline src="/img/creative-idea.svg#Creative_Idea" alt="TODO" class="fill-green" >}}
+{{< svg-inline src="/img/creative-idea.svg#Creative_Idea" decorative="true" class="fill-green" >}}
 
 ### Start
 
@@ -166,7 +166,7 @@ Avantages :
 
 ----
 
-{{< svg-inline src="/img/teamwork.svg#Teamwork" alt="TODO" class="fill-yellow" >}}
+{{< svg-inline src="/img/teamwork.svg#Teamwork" decorative="true" class="fill-yellow" >}}
 
 ### ScaleUp
 
@@ -183,7 +183,7 @@ Avantages :
 
 ----
 
-{{< svg-inline src="/img/startup.svg#Startup" alt="TODO" class="fill-red" >}}
+{{< svg-inline src="/img/startup.svg#Startup" decorative="true" class="fill-red" >}}
 
 ### Rocket
 

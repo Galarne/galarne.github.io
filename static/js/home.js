@@ -1,22 +1,21 @@
-items = document.getElementsByClassName('point')
+const clickables = [...document.getElementsByClassName('point'),
+                    ...document.querySelectorAll('.custom-tooltip > div > h2')];
 
-for (const item of items) {
-    item.addEventListener("click", displayTooltip, false);
-}
+clickables.forEach(e => e.addEventListener("click", displayTooltip, false));
 
 
-function displayTooltip(event) {
+function displayTooltip() {
     if (this.classList.value.search("active") == -1) {
-            const color = this.classList.value.replace(/point svg-/, "");
-        
-        const points = [...this.parentElement.getElementsByClassName("point")];
-        points.forEach(e => e.classList.remove("active"));
+        const node = this.classList.value != "" ? this : this.parentNode;
+        const color = node.classList.value.replace(/point svg-/, "");
 
         const customTooltip = document.getElementById("custom-tooltip");
-        [... customTooltip.children].forEach(e => e.classList.remove("active"))
-        
-        this.classList.add("active");
+        const activeElements = [...node.parentElement.getElementsByClassName("point"),
+                                ...customTooltip.children];
+        activeElements.forEach(e => e.classList.remove("active"));
+
+        node.classList.add("active");
         customTooltip.getElementsByClassName(color)[0].classList.add("active");
-    // console.log("over : " + color)}
+        customTooltip.querySelector(".active > h2")[0].scrollIntoView(false);
     }
 }
