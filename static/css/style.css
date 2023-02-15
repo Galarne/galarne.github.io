@@ -63,6 +63,11 @@ main >  .row:nth-child(1)
     font-size: 2rem;
     line-height: 2.5rem;
 }
+main > .row:nth-child(1) h1
+{
+    font-size: 3rem;
+    line-height: 3.5rem;
+}
 
 .line-with-picture {
     border: none !important;
@@ -294,5 +299,10 @@ div.violet h2 { text-decoration-color: var(--theme-violet); }
 
     .custom-tooltip > div.active > h2:before, .custom-tooltip > div.active > h2:after {
         content: "\25BC";
+    }
+
+    main >  .row {
+        margin-top: var(--bs-gutter-x);
+        margin-bottom: var(--bs-gutter-x);
     }
 }
