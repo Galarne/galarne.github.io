@@ -1,5 +1,6 @@
 ---
 title: "Votre partenaire Tech"
+description: "Artisans logiciels, nous développons des applications mobile, site web et logiciel métier : POC, outils SaaS, digitalisation"
 draft: false
 tags: []
 summary: ""
