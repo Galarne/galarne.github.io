@@ -23,6 +23,7 @@ params:
 
   legal:
     company: Galarne SAS
+    siren: EN FORMATION
 
   nav:
     - title: Nous Contacter
@@ -33,8 +34,8 @@ params:
       - section:
       - section:
         subsections:
-        - title : Mentions légales
-          link : /mentions-legales
+        - title : Conditions générales
+          link : /cgu
       - section:
 
 

@@ -58,7 +58,7 @@ main>h1 {
 
 main >  .row:nth-child(1)
 {
-    margin-top: 80px;
+    margin-top: 40px;
     margin-bottom: 120px;
     font-size: 2rem;
     line-height: 2.5rem;
@@ -306,3 +306,18 @@ div.violet h2 { text-decoration-color: var(--theme-violet); }
         margin-bottom: var(--bs-gutter-x);
     }
 }
+
+.legal {
+    text-align: justify !important;
+}
+
+.legal {
+    font-size: 1.2rem;
+}
+.legal .process, .legal div li > div { display: inline; }
+.legal div a { display: contents;}
+.legal h2 { margin-top: calc(3*var(--bs-gutter-x));}
+.legal h3 { margin-top: calc(2*var(--bs-gutter-x));}
+.legal h4 { margin-top: var(--bs-gutter-x);}
+
+.legal > .col > .process { text-align: center; display: block;}
