@@ -7,22 +7,22 @@ summary: ""
 class: legal
 ---
 
-Date d'entrée en vigueur : A DEFINIR
+Date d'entrée en vigueur : 09 mars 2023
 
-Les présentes conditions générales d'utilisation (dites « CGU ») ont pour objet l'encadrement juridique des modalités de mise à disposition du site et des services par {{< legal "company" >}}, immatriculée sous le numéro {{< legal siren >}} et de définir les conditions d’accès et d’utilisation des services par toute personne qui accède au site et/ou utilise les services (l’« Utilisateur »).
+Les présentes conditions générales d'utilisation (dites « CGU ») ont pour objet l'encadrement juridique des modalités de mise à disposition du site et des services par {{< legal "company" >}}, et de définir les conditions d'accès et d'utilisation des services par toute personne qui accède au site et/ou utilise les services (l'« Utilisateur »).
 
-En cas de non-acceptation des CGU stipulées dans le présent contrat, l'Utilisateur se doit de renoncer à l'accès au site et/ou à l’utilisation des services proposés par le site. {{< legal company >}} se réserve le droit de modifier unilatéralement et à tout moment le contenu des présentes CGU. En cas de modification des conditions générales, {{< legal company >}} n'a aucune obligation de faire accepter à nouveau à l’Utilisateur les nouvelles conditions générales d’utilisation et de vente. C'est à l'Utilisateur, au moment où il accède à nouveau au Site d'en prendre connaissance. L’accès au Site sera refusée à l’Utilisateur n’ayant pas expressément accepté les Conditions Générales.
+En cas de non-acceptation des CGU stipulées dans le présent contrat, l'Utilisateur se doit de renoncer à l'accès au site et/ou à l'utilisation des services proposés par le site. {{< legal company >}} se réserve le droit de modifier unilatéralement et à tout moment le contenu des présentes CGU. En cas de modification des conditions générales, {{< legal company >}} n'a aucune obligation de faire accepter à nouveau à l'Utilisateur les nouvelles conditions générales d'utilisation. C'est à l'Utilisateur, au moment où il accède à nouveau au Site d'en prendre connaissance.
 
 En navigant sur ce site, l'Utilisateur accepte l'intégralité des Conditions Générales d'Utilitation.
 
 ## Article 1 : Les mentions légales
 
 <div class="col px-4">
-L'édition et l’exploitation du site {{< url >}} est assurée par {{< legal "company" >}}, sous le numéro {{< legal "siren" >}}.
+L'édition et l'exploitation du site {{< url >}} est assurée par {{< mentions-legales >}}
 
 - Adresse e-mail : {{< email "webmaster" >}}
 
-Directeur de la publication : {{< legal "company" >}} 
+Directeur de la publication : {{< legal "company" >}}
 
 Le site est hébergé chez Github, Inc. Pour plus d'information :
 - [La Déclaration de Confidentialité GitHub](https://docs.github.com/fr/site-policy/privacy-policies/github-privacy-statement)
@@ -38,17 +38,17 @@ Le site {{< url >}} permet à l'Utilisateur un accès aux services suivants :
 
 Tous les frais supportés par l'Utilisateur pour accéder au service (matériel informatique, logiciels, connexion Internet, etc.) sont à sa charge.
 
-Toute utilisation du site implique l'acceptation sans aucune réserve ni restriction des présentes CGU par l'Utilisateur. L'Utilisateur doit être âgé d’au moins 18 ans et être capable juridiquement de contracter et d’utiliser le site conformément aux CGU.
+Toute utilisation du site implique l'acceptation sans aucune réserve ni restriction des présentes CGU par l'Utilisateur. L'Utilisateur doit être âgé d'au moins 18 ans et être capable juridiquement de contracter et d'utiliser le site conformément aux CGU.
 
-L’Utilisateur reconnait et accepte que la mise en relation réalisée via le site n’est en aucune cas constitutive d’une mise à disposition.
+L'Utilisateur reconnait et accepte que la mise en relation réalisée via le site n'est en aucune cas constitutive d'une mise à disposition.
 
-Lors de la prise de rendez-vous sur le site via le Formulaire d’inscription, chaque Utilisateur accepte expressément que ces données soient conservées par {{< legal company >}}.
+Lors de la prise de rendez-vous sur le site via le Formulaire d'inscription, chaque Utilisateur accepte expressément que ces données soient conservées par {{< legal company >}}.
 
 L'Utilisateur accepte que {{< legal company >}} établisse un Dialogue en direct. L'Utilisateur ne peut tenir {{< legal company >}} responsable des échanges qui ont lieu via le Dialogue en direct.
 
-L'Utilisateur est tenu de fournir des informations exactes qu’il s’engage à mettre immédiatement à jour en cas de modifications.
+L'Utilisateur est tenu de fournir des informations exactes qu'il s'engage à mettre immédiatement à jour en cas de modifications.
 
-L’Utilisateur n'a pas accès aux services réservés et aux produits édités par {{< legal company >}}.
+L'Utilisateur n'a pas accès aux services réservés et aux produits édités par {{< legal company >}}.
 
 L'Utilisateur a la possibilité de contacter {{< legal company >}} via le formulaire de contact.
 
@@ -82,28 +82,28 @@ L'Utilisateur doit solliciter l'autorisation préalable de {{< legal company >}}
 
 <div class="col px-4">
 
-Les informations communiquées sont présentées à titre indicatif et général sans valeur contractuelle. Malgré des mises à jour régulières, le site {{< url >}} ne peut être tenu responsable de la modification des dispositions administratives et juridiques survenant après la publication. De même, le site ne peut être tenue responsable de l’utilisation et de l’interprétation de l’information contenue dans ce site.
+Les informations communiquées sont présentées à titre indicatif et général sans valeur contractuelle. Malgré des mises à jour régulières, le site {{< url >}} ne peut être tenu responsable de la modification des dispositions administratives et juridiques survenant après la publication. De même, le site ne peut être tenue responsable de l'utilisation et de l'interprétation de l'information contenue dans ce site.
 
-Toute garantie est expressément exclue par {{< legal company >}} à l’égard des Utilisateurs. En particulier, {{< legal company >}} fournit le site en l’état et exclut toute garantie liée à l’Application, et notamment toute garantie de conformité, d’éviction, de compatibilité et d’adéquation aux besoins ou à l’environnement de l’Utilisateur. {{< legal company >}} ne garantit pas l’absence de bug et en conséquence ne garantit pas que l’utilisation du site sera ininterrompue et exempte d’erreur. L’Utilisateur reconnaît que la licence définie au Contrat lui est concédée à ses risques et périls. L’Utilisateur reconnaît notamment que les transmissions sur Internet ne sont pas sécurisées et peuvent être retardées, perdues, interceptées, corrompues et que la transmission d’informations confidentielles via Internet est réalisée par l’Utilisateur à ses risques et périls.
+Toute garantie est expressément exclue par {{< legal company >}} à l'égard des Utilisateurs. En particulier, {{< legal company >}} fournit le site en l'état et exclut toute garantie liée à l'Application, et notamment toute garantie de conformité, d'éviction, de compatibilité et d'adéquation aux besoins ou à l'environnement de l'Utilisateur. {{< legal company >}} ne garantit pas l'absence de bug et en conséquence ne garantit pas que l'utilisation du site sera ininterrompue et exempte d'erreur. L'Utilisateur reconnaît que la licence définie au Contrat lui est concédée à ses risques et périls. L'Utilisateur reconnaît notamment que les transmissions sur Internet ne sont pas sécurisées et peuvent être retardées, perdues, interceptées, corrompues et que la transmission d'informations confidentielles via Internet est réalisée par l'Utilisateur à ses risques et périls.
 
-L’Utilisateur reconnaît que le site est fourni « en l’état » et qu’à ce titre il ne saurait rechercher la responsabilité de {{< legal company >}} pour tout dommage, direct ou indirect, (p. ex. conséquences négatives d’un retard, d’un départ anticipé…) quel qu’en soit le fondement, qui lui serait causé du fait de l’utilisation du site et renonce à obtenir toute indemnisation de ce fait. Si une condamnation pécuniaire devait être prononcée à l'encontre de {{< legal company >}} et ce, pour quelque raison que ce soit, les parties conviennent expressément que le montant de ladite condamnation ne pourra être supérieur à cent euros (100 €), ce que les parties s’accordent pour considérer comme une juste compensation au regard de leurs engagements respectifs aux termes des CGU.
+L'Utilisateur reconnaît que le site est fourni « en l'état » et qu'à ce titre il ne saurait rechercher la responsabilité de {{< legal company >}} pour tout dommage, direct ou indirect, (p. ex. conséquences négatives d'un retard, d'un départ anticipé…) quel qu'en soit le fondement, qui lui serait causé du fait de l'utilisation du site et renonce à obtenir toute indemnisation de ce fait. Si une condamnation pécuniaire devait être prononcée à l'encontre de {{< legal company >}} et ce, pour quelque raison que ce soit, les parties conviennent expressément que le montant de ladite condamnation ne pourra être supérieur à cent euros (100 €), ce que les parties s'accordent pour considérer comme une juste compensation au regard de leurs engagements respectifs aux termes des CGU.
 
-Tout événement dû (i) à un cas de force majeure ; et/ou (ii) au fait d’un tiers ; et/ou(iii) à une opération de maintenance, ayant pour conséquence un dysfonctionnement du site ou serveur, n'engage pas la responsabilité de {{< legal company >}}. Dans ces cas, l’Utilisateur reconnait et accepte que la responsabilité de {{< legal company >}} ne saurait être engagée, en ce compris pour toute interruption ou suspension de service, même sans préavis.
+Tout événement dû (i) à un cas de force majeure ; et/ou (ii) au fait d'un tiers ; et/ou(iii) à une opération de maintenance, ayant pour conséquence un dysfonctionnement du site ou serveur, n'engage pas la responsabilité de {{< legal company >}}. Dans ces cas, l'Utilisateur reconnait et accepte que la responsabilité de {{< legal company >}} ne saurait être engagée, en ce compris pour toute interruption ou suspension de service, même sans préavis.
 
-Des liens hypertextes peuvent être présents sur le site. L’Utilisateur est informé qu’en cliquant sur ces liens, il sortira du site {{< url >}}. Ce dernier n’a pas de contrôle sur les pages web sur lesquelles aboutissent ces liens et ne saurait, en aucun cas, être responsable de leur contenu.
+Des liens hypertextes peuvent être présents sur le site. L'Utilisateur est informé qu'en cliquant sur ces liens, il sortira du site {{< url >}}. Ce dernier n'a pas de contrôle sur les pages web sur lesquelles aboutissent ces liens et ne saurait, en aucun cas, être responsable de leur contenu.
 
 </div>
 
-## Article 6 : Procédure d’alerte
+## Article 6 : Procédure d'alerte
 
 <div class="col px-4">
 
 Conformément aux dispositions de l'article 6, I, 7° de la loi 2004-575 du 21 juin 2004, {{< legal company >}} n'est pas soumis à une obligation générale de surveillance des informations hébergées sur le site.
 
-Dans l’hypothèse où l’Utilisateur constate qu’un contenu mis en ligne sur le site et/ou rendu accessible via un lien hypertexte porte atteinte aux dispositions légales et réglementaires applicables, et notamment constitue un contenu manifestement illicite (p. ex. diffamant, dénigrant ou portant atteinte à ses droits de propriété intellectuelle), l’Utilisateur pourra le notifier à {{< legal company >}} en adressant un courrier électronique, via le formulaire de contact présent sur le site.
+Dans l'hypothèse où l'Utilisateur constate qu'un contenu mis en ligne sur le site et/ou rendu accessible via un lien hypertexte porte atteinte aux dispositions légales et réglementaires applicables, et notamment constitue un contenu manifestement illicite (p. ex. diffamant, dénigrant ou portant atteinte à ses droits de propriété intellectuelle), l'Utilisateur pourra le notifier à {{< legal company >}} en adressant un courrier électronique, via le formulaire de contact présent sur le site.
 
-L’Utilisateur doit communiquer à {{< legal company >}} toutes les informations nécessaires pour permettre d’identifier le contenu en cause et/ou de de le signaler à l’éditeur ou à l’administrateur du site internet sur lequel le contenu illicite est diffusé, telles que :
-- ses nom, prénoms, profession, domicile, nationalité, date et lieu de naissance (s’il est une personne physique) ou sa forme, sa dénomination, son siège social et l’organe qui la représente légalement (s’il est une personne morale) ;
+L'Utilisateur doit communiquer à {{< legal company >}} toutes les informations nécessaires pour permettre d'identifier le contenu en cause et/ou de de le signaler à l'éditeur ou à l'administrateur du site internet sur lequel le contenu illicite est diffusé, telles que :
+- ses nom, prénoms, profession, domicile, nationalité, date et lieu de naissance (s'il est une personne physique) ou sa forme, sa dénomination, son siège social et l'organe qui la représente légalement (s'il est une personne morale) ;
 - la description des faits litigieux et leur localisation précise ;
 - les raisons pour lesquelles le contenu doit être retiré, incluant la mention des fondements juridiques et factuels.
 
@@ -113,13 +113,13 @@ L’Utilisateur doit communiquer à {{< legal company >}} toutes les information
 
 <div class="col px-4">
 
-L’Utilisateur est informé que lors de ses visites sur le site, des cookies s’installent pour proposer une expérience utilisateur optimal.
+L'Utilisateur est informé que lors de ses visites sur le site, des cookies s'installent pour proposer une expérience utilisateur optimal.
 
-En naviguant sur le site, L’Utilisateur les accepte.
+En naviguant sur le site, L'Utilisateur les accepte.
 
-L’Utilisateur pourra désactiver ces cookies par l’intermédiaire des paramètres figurant au sein de son logiciel de navigation.
+L'Utilisateur pourra désactiver ces cookies par l'intermédiaire des paramètres figurant au sein de son logiciel de navigation.
 
-### Qu’est-ce qu’un cookie ?
+### Qu'est-ce qu'un cookie ?
 
 Un cookie est une information conservée sur votre ordinateur par un site web que vous visitez. Il s'agit souvent d'un fichier texte enregistré dans une zone dédiée du disque dur de votre terminal. Ce fichier contient certaines informations personnelles vous concernant.
 
@@ -140,33 +140,33 @@ Sans ces cookies, vous ne pourrez pas utiliser le site normalement, aussi, nous 
 
 #### Cookies techniques
 
-Ce sont des cookies essentiels à la navigation sur notre site internet (tels que les ID de session). Ils vous permettent d’utiliser les principales fonctionnalités du site et de sécuriser votre connexion.
+Ce sont des cookies essentiels à la navigation sur notre site internet (tels que les ID de session). Ils vous permettent d'utiliser les principales fonctionnalités du site et de sécuriser votre connexion.
 
 Par exemple, lorsque vous revenez sur notre site, vous retrouvez l'historique des discussions que vous avec nous via le chat en direct.
 
 
 #### Cookies fonctionnels
 
-Ces cookies permettent d’optimiser le fonctionnement de notre site et de vous donner accès à des fonctionnalités spécifiques. Ils vous permettent également d’adapter le rendu graphique du site en fonction des préférences d’affichage de votre terminal. Ces cookies vous permettent d’avoir une navigation fluide et personnalisée.
+Ces cookies permettent d'optimiser le fonctionnement de notre site et de vous donner accès à des fonctionnalités spécifiques. Ils vous permettent également d'adapter le rendu graphique du site en fonction des préférences d'affichage de votre terminal. Ces cookies vous permettent d'avoir une navigation fluide et personnalisée.
 
 
 #### Cookies analytiques
 
-Ce sont des cookies qui nous permettent de connaître l’utilisation et la performance de notre site, d’établir des statistiques, des volumes d’utilisation des différents éléments du site (contenus, visites, itinéraire de navigation). Ils nous permettent d’améliorer l’intérêt et l’ergonomie de nos services (les pages ou les sections les plus souvent consultées, les articles les plus lus…).
+Ce sont des cookies qui nous permettent de connaître l'utilisation et la performance de notre site, d'établir des statistiques, des volumes d'utilisation des différents éléments du site (contenus, visites, itinéraire de navigation). Ils nous permettent d'améliorer l'intérêt et l'ergonomie de nos services (les pages ou les sections les plus souvent consultées, les articles les plus lus…).
 
 
 #### Cookies « Réseau sociaux »
 
-Notre site contient des éléments provenant de tiers (notamment les boutons d’applications), qui permettent à l’utilisateur de partager, via les réseaux sociaux, des contenus de notre site ou ses opinions. Tel est le cas des boutons « Partager, « J’aime », « Tweeter » des réseaux sociaux tels que Facebook, Twitter, etc.
+Notre site contient des éléments provenant de tiers (notamment les boutons d'applications), qui permettent à l'utilisateur de partager, via les réseaux sociaux, des contenus de notre site ou ses opinions. Tel est le cas des boutons « Partager, « J'aime », « Tweeter » des réseaux sociaux tels que Facebook, Twitter, etc.
 
-Quand vous interagissez avec des éléments de tiers, par exemple en cliquant sur « J’aime » ou en laissant un commentaire, les informations sont transmises au réseau social et publiées sur votre profil. En vous connectant au réseau social, les boutons de partage de notre site vous permettent de lier les contenus consultés à votre compte d’utilisateur.
+Quand vous interagissez avec des éléments de tiers, par exemple en cliquant sur « J'aime » ou en laissant un commentaire, les informations sont transmises au réseau social et publiées sur votre profil. En vous connectant au réseau social, les boutons de partage de notre site vous permettent de lier les contenus consultés à votre compte d'utilisateur.
 
-Si vous ne souhaitez pas que le réseau social associe les informations collectées via notre site à votre compte d’utilisateur, vous devez d’abord vous déconnecter du réseau social. Nous vous invitons à consulter les politiques de confidentialité de ces réseaux sociaux afin de connaître les objectifs d’utilisation, de publicité et les informations de navigation qu’ils peuvent recueillir grâce à ces boutons d’application.
+Si vous ne souhaitez pas que le réseau social associe les informations collectées via notre site à votre compte d'utilisateur, vous devez d'abord vous déconnecter du réseau social. Nous vous invitons à consulter les politiques de confidentialité de ces réseaux sociaux afin de connaître les objectifs d'utilisation, de publicité et les informations de navigation qu'ils peuvent recueillir grâce à ces boutons d'application.
 
 
-### Droits d’accès et d’opposition
+### Droits d'accès et d'opposition
 
-Les cookies améliorent votre confort de navigation sur notre site internet, cependant vous pouvez choisir de les désactiver. Votre navigateur peut également être configuré pour vous avertir des cookies stockés dans votre ordinateur et vous demandez de les accepter ou non. Vous pouvez accepter ou refuser les cookies individuellement ou interdire totalement les cookies. Nous vous rappelons que ce paramètre peut modifier vos conditions d’accès à notre contenu et nos services qui requièrent l’utilisation de cookies. Pour modifier la gestion des cookies dans votre navigateur, vous pouvez modifier les paramètres dans l'onglet confidentialité. La configuration de chaque navigateur est différente. Il est décrit dans le menu d'aide de votre navigateur, qui vous permettra de savoir comment modifier vos souhaits en ce qui concerne les cookies.
+Les cookies améliorent votre confort de navigation sur notre site internet, cependant vous pouvez choisir de les désactiver. Votre navigateur peut également être configuré pour vous avertir des cookies stockés dans votre ordinateur et vous demandez de les accepter ou non. Vous pouvez accepter ou refuser les cookies individuellement ou interdire totalement les cookies. Nous vous rappelons que ce paramètre peut modifier vos conditions d'accès à notre contenu et nos services qui requièrent l'utilisation de cookies. Pour modifier la gestion des cookies dans votre navigateur, vous pouvez modifier les paramètres dans l'onglet confidentialité. La configuration de chaque navigateur est différente. Il est décrit dans le menu d'aide de votre navigateur, qui vous permettra de savoir comment modifier vos souhaits en ce qui concerne les cookies.
 
 - Google Chrome : https://support.google.com/chrome/answer/95647?hl=fr
 - Firefox : https://support.mozilla.org/fr/kb/activer-desactiver-cookies
