@@ -54,17 +54,38 @@ L'Utilisateur a la possibilité de contacter {{< legal company >}} via le formul
 
 </div>
 
-## Article 3 : Collecte des données
+## Article 3 : Politique de confidentialité
 
 <div class="col px-4">
 
-Le site assure à l'Utilisateur une collecte et un traitement d'informations personnelles dans le respect de la vie privée conformément à au Règlement (UE) 2016/679 du parlement européen et du conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données - RGPD)
+Cette Politique de Confidentialité décrit comment {{< legal "company" >}} («Nous» ou «Notre») protège votre vie privée lorsque vous utilisez les services {{< legal "company" >}} («Services») qui comprend le site Web situé à galarne.fr (le «Site») et toutes les applications de téléphonie mobile {{< legal "company" >}} («Mobile»).
+
+VEUILLEZ LIRE ATTENTIVEMENT CETTE POLITIQUE DE CONFIDENTIALITÉ. EN ACCÉDANT À CE SERVICE OU EN L'UTILISANT, VOUS ACCEPTEZ D'ÊTRE ENGAGÉ PAR LES TERMES ET CONDITIONS DÉCRITS ICI ET TOUS LES TERMES ET CONDITIONS INCLUS PAR RÉFÉRENCE. SI VOUS N'ACCEPTEZ PAS TOUS LES TERMES ET CONDITIONS ÉNONCÉS CI-DESSOUS, VOUS NE POUVEZ PAS UTILISER LES SERVICES DE {{< legal "company" >}}.
+
+Cette Politique de Confidentialité ainsi que nos Conditions d'Utilisation s'appliquent aux informations (y compris les informations personnelles) collectées lors de votre utilisation des services {{< legal "company" >}}. Afin de mener cette Politique de Confidentialité, l'expression «informations personnelles» désigne les informations qui vous identifient personnellement, soit seules, soit combinées avec d'autres informations dont nous disposons. Les informations personnelles n'incluent pas les informations techniques, d'appareils ou d'utilisation qui ne peuvent pas être utilisées pour vous identifier personnellement, ni les informations «agrégées», qui sont des données que nous collectons sur l'utilisation des Services ou sur un groupe ou une catégorie de Services ou utilisateurs, dont les identités individuelles ou d'autres informations personnelles ont été supprimées. Cette Politique de Confidentialité ne restreint ni ne limite en aucun cas notre collecte et notre utilisation des informations agrégées et non personnelles, et nous pouvons partager ces données sur nos utilisateurs avec des tiers à des fins diverses.
+
+### Données collectées
+
+L'utilisation des Services assure à l'Utilisateur une collecte et un traitement d'informations personnelles dans le respect de la vie privée conformément à au Règlement (UE) 2016/679 du parlement européen et du conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données - RGPD)
 
 En vertu de ce Règlement, l'Utilisateur dispose d'un droit d'accès, de rectification, de suppression et d'opposition de ses données personnelles. L'Utilisateur exerce ce droit par courriel à l'adresse : {{< email "privacy" >}}
 
-Les données personnelles sont collectées lorsque l'utilisateur rentre en contact avec {{< legal company >}}.
+Nous recueillons certaines informations personnelles que vous nous fournissez volontairement. Par exemple, nous collectons votre nom, adresse e-mail, nom d'utilisateur et autres informations que vous nous fournissez lorsque vous vous rentrez en contact avec nous, nous contactez par e-mail ou utilisez nos services.
+
+Avec votre permission (en téléchargement ou dans l'application), nous pouvons accéder et stocker le contenu (nom d'utilisateur et photos) que vous avez fournis lors de l'utilisation de nos applications mobiles et de notre site. Nous pouvons également modifier les photos stockées.
+
+### Photos
+
+Pour utiliser certains de nos services, l'envoi de photo est nécéssaire. Étant donné que leur stockage est effectué sur nos serveurs, les photos y sont envoyées via une connexion cryptée. Nous utilisons la technologie Secure Socket Layer pour protéger la confidentialité et l'intégrité du processus de transmission.
+
+Pour les utilisateurs enregistrés, le contenu partagé sera stocké sur les serveurs et affiché dans les Services à moins qu'un utilisateur ne supprime les images lui-même ou ne demande une telle suppression en contactant notre équipe d'assistance.
+
+### Sécurité
+
+La technologie que nous utilisons et les politiques que nous avons mises en œuvre visent à protéger votre vie privée contre les accès non autorisés et les utilisations inappropriées. Nous continuerons de mettre ces mesures à jour à mesure que de nouvelles technologies seront disponibles. Cependant, nous ne pouvons garantir que des tiers non autorisés ne pourront pas contourner nos mesures de sécurité. Si vous utilisez un mot de passe sur nos services, vous êtes responsable de le garder confidentiel. Ne le partagez avec aucune autre personne. Si vous pensez que votre mot de passe a été mal utilisé ou que votre compte a été piraté, veuillez nous en informer immédiatement.
 
 </div>
+
 
 ## Article 4 : Propriété intellectuelle
 
