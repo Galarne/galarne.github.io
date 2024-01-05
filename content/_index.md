@@ -36,9 +36,9 @@ Avec notre expérience, vous bénéficiez de **compétences tech** et d'**expert
 
 ## Qualité, sécurité et conformité en priorité
 
-Nous suivons l'état de l'art en matière de **qualité** via l'approche **clean code** ainsi qu'en terme de **sécurité** par le suivi des bonnes pratiques de la communauté **OWASP**.
+Nous suivons l'état de l'art en matière de **qualité**, via l'approche **clean code**, ainsi qu'en terme de **sécurité** par le suivi des bonnes pratiques de la communauté **OWASP**.
 
-Notre expertise inclus les obligations légales comme la **RGPD** et l'**accessibilité**. En tant que **partenaire**, nous vous conseillons et nous vous faisons des **recommandations**. Si vous le souhaitez, nous réalisons des **audits**.
+Notre expertise inclus les obligations légales, comme la **RGPD** et l'**accessibilité**. En tant que **partenaire**, nous vous conseillons et nous vous faisons des **recommandations**. Si vous le souhaitez, nous réalisons des **audits**.
 
 {{</ line-with-picture >}}
 
@@ -75,7 +75,7 @@ Design thinking, Example Mapping, User centric, avec ces méthodes les **fonctio
 
 ## Architecture
 
-En fonction de votre existant et des contraintes, nous analysons afin de proposer une **architecture**.
+En fonction de votre existant et de vos contraintes, nous vous proposerons une **architecture** adaptée.
 
 L'architecture doit correspondre à votre **application** et au nombre d'utilisateurs qu'elle accueille.
 
@@ -92,7 +92,7 @@ Toutes les phases de conception prennent en compte la **dette technique**. Sa ma
 
 Notre **agilité** vous permet d'adapter les développements et de livrer les fonctionnalités prioritaires.
 
-Nos équipes sont disponibles et communiquent avec vous, sans **technique**.
+Nos équipes sont disponibles et communiquent avec vous, le tout, sans jargon **technique**.
 
 </div>
 <div class="green">
@@ -203,7 +203,7 @@ Avantages :
 {{</ auto-columns >}}
 
 
-#### Dans tous les cas, nous gérons pour vous les **compétences**, chaque membre de votre **équipe**. Vous vous concentrer sur votre **produit**.
+#### Dans tous les cas, nous gérons pour vous les **compétences**, chaque membre de nos **équipes**. Vous vous concentrez sur votre **produit**.
 
 # Nous les avons accompagnés
 
