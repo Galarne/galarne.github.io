@@ -11,6 +11,7 @@ languages:
     weight: 1
 
 params:
+  tagmanager: GTM-PCVBMHQM
   logo: /img/logo.png
   favicon : true
   useStoryset: 1
@@ -40,7 +41,7 @@ params:
 
 disableKinds:
 - taxonomy
-- tags
+- rss
 - term
 
 sitemap:
