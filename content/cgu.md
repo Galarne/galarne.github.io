@@ -1,6 +1,6 @@
 ---
 title: "Conditions Générales d'Utilisation"
-description: "Artisans logiciels, nous développons des applications mobile, site web et logiciel métier : POC, outils SaaS, digitalisation"
+description: "Conditions Générales d'Utilisation de Galarne"
 draft: false
 tags: []
 summary: ""
