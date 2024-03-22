@@ -7,7 +7,7 @@ summary: ""
 container: container-fluid
 ---
 
-{{< line-with-picture src="/img/screens.svg" decorative="true" class="text-left" container=true >}}
+{{< line-with-picture src="/img/screens.svg" decorative="true" class="text-start" container=true >}}
 
 **Vous recherchez un partenaire technologique ?**
 
@@ -68,7 +68,7 @@ Notre méthode de travail agile nous permet d'intégrer vos retours rapidement, 
 
 ## Cas client : un outil métier 360
 
-<div class="text-left">
+<div class="text-start">
 
 
 Nous accompagnons un acteur majeur de la **logistique automobile** pour développer son **outil métier innovant**, destiné à améliorer l'**efficacité opérationnelle et gagner en qualité**. En quatre mois seulement, nous avons lancé une **solution web** et une **application Android**, marquant la première étape d'une évolution numérique significative.

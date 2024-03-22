@@ -13,6 +13,7 @@
       --theme-yellow: #ffdb10;
       --theme-green: #71BA6A;
       --theme-blue: #92C5EC;
+      --theme-blue-origin: #4A9FE0;
       /*
         original:     #4A9FE0
         lighten(40%): #92C5EC
@@ -87,10 +88,6 @@
 
   .row {
       /* text-align: left; */
-  }
-
-  .text-left p {
-      text-align: left;
   }
 
   .navbar .logo {
@@ -450,7 +447,7 @@ use.fill-yellow {
       background-color: #f3f3f3;
   }
 
-  .cta div.btn-primary {
+  .btn-primary {
       --bs-btn-color: #000;
       --bs-btn-bg: var(--theme-blue);
       --bs-btn-border-color: var(--theme-blue);
@@ -466,7 +463,19 @@ use.fill-yellow {
       --bs-btn-disabled-bg: var(--theme-blue);
       --bs-btn-disabled-border-color: var(--theme-blue);
       text-transform: uppercase;
+      padding: calc(0.5 * var(--bs-gutter-x));
+  }
+
+  .cta div.btn-primary {
       font-size: 18px;
       line-height: 36px;
-      padding: calc(0.5 * var(--bs-gutter-x));
+  }
+
+  .consent button.btn-primary {
+      padding: 15px;
+  }
+
+  .form-check-input:checked {
+      background-color: var(--theme-blue-origin);
+      border-color: var(--theme-blue-origin);
   }
