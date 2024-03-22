@@ -2,7 +2,6 @@
 title: "Votre partenaire Tech"
 description: "Artisans logiciels, nous développons des applications mobile, site web et logiciel métier : POC, outils SaaS, digitalisation"
 draft: false
-tags: []
 summary: ""
 class: sweet-home
 pagescript: "home.js"
@@ -10,7 +9,7 @@ pagescript: "home.js"
 
 {{< line-with-picture src="/img/instant-information-pana.svg" decorative="true" >}}
 
-# Les concepteurs de vos applications
+## Les concepteurs de vos applications
 
 **Galarne** vous accompagne de A&nbsp;à&nbsp;Z dans la réalisation de vos **solutions numériques**.
 
@@ -21,7 +20,7 @@ Vous imaginez les **fonctionnalités**, nous forgeons votre **produit**.
 
 {{< line-with-picture position="left" src="/img/sync-cuate.svg" decorative="true" >}}
 
-## Un savoir-faire polyvalent
+### Un savoir-faire polyvalent
 
 Artisans, nous bâtissons des **applications mobile**, **site web** et intranet. Nous réalisons tous types de projets : **logiciel métier**, **outils SaaS**, digitalisation de process...
 
@@ -34,7 +33,7 @@ Avec notre expérience, vous bénéficiez de **compétences tech** et d'**expert
 
 {{< line-with-picture src="/img/qa-engineers-amico.svg" decorative="true" >}}
 
-## Qualité, sécurité et conformité en priorité
+### Qualité, sécurité et conformité en priorité
 
 Nous suivons l'état de l'art en matière de **qualité**, via l'approche **clean code**, ainsi qu'en terme de **sécurité** par le suivi des bonnes pratiques de la communauté **OWASP**.
 
@@ -44,7 +43,7 @@ Notre expertise inclus les obligations légales, comme la **RGPD** et l'**access
 
 <section class="services">
 
-# Nos services
+## Nos services
 
 De l'idée à l'exploitation
 
@@ -60,7 +59,7 @@ De l'idée à l'exploitation
 
 <div class="red active">
 
-## Idéation
+### Idéation
 
 Vous avez une idée ?
 
@@ -73,7 +72,7 @@ Design thinking, Example Mapping, User centric, avec ces méthodes les **fonctio
 </div>
 <div class="orange">
 
-## Architecture
+### Architecture
 
 En fonction de votre existant et de vos contraintes, nous vous proposerons une **architecture** adaptée.
 
@@ -84,7 +83,7 @@ L'architecture doit correspondre à votre **application** et au nombre d'utilisa
 </div>
 <div class="yellow">
 
-## Développement
+### Développement
 
 Nous utilisons des **technologies** modernes, éprouvées et bénéficiant de grandes communautés.
 
@@ -97,7 +96,7 @@ Nos équipes sont disponibles et communiquent avec vous, le tout, sans jargon **
 </div>
 <div class="green">
 
-## Tests
+### Tests
 
 Nos techniques de développements sont **orientées tests**. Votre produit bénéficie d'une **qualité** vérifiée régulièrement. Ainsi nous identifions les régressions rapidement.
 
@@ -108,7 +107,7 @@ Toutes les couches techniques et fonctionnelles disposent de tests adaptés pour
 </div>
 <div class="blue">
 
-## Déploiement
+### Déploiement
 
 Avec nos méthodes de développement et les tests associés, nous créons de la valeur régulièrement. Afin que vous puissiez bénéficier de ces évolutions, des **mises à jour** régulières sont déployées.
 
@@ -119,7 +118,7 @@ Si les technologies choisies le permettent, les **mises à jour** sont transpare
 </div>
 <div class="darkblue">
 
-## Hébergement
+### Hébergement
 
 Notre **Cloud privé** s'appuie sur des acteurs français tels qu'OVH ou Scaleway. Cette infrastructure de serveurs redondés permet une disponibilité (**SLA**) importante.
 
@@ -130,7 +129,7 @@ Des sauvegardes quotidiennes garantissent la **continuité de votre activité**.
 </div>
 <div class="violet">
 
-## Maintenance
+### Maintenance
 
 Tel un navire, votre **produit** doit être entretenu pour durer. Des **mises à jour** régulières lui offre l'entretien qu'il doit recevoir. **Sécurité**, dépendances techniques et code source sont analysés pour rester à la pointe.
 
@@ -144,7 +143,7 @@ Tel un navire, votre **produit** doit être entretenu pour durer. Des **mises à
 
 </section>
 
-# Nos équipes
+## Nos équipes
 
 Situées à Angers, **Galarne** vous propose des **équipes Tech** dimensionnées en fonction de vos besoins. En tant que **partenaire**, vous bénéficiez d'une équipe dédiée, prête à concevoir votre **solution**.
 
@@ -152,7 +151,7 @@ Situées à Angers, **Galarne** vous propose des **équipes Tech** dimensionnée
 
 {{< svg-inline src="/img/creative-idea.svg#Creative_Idea" decorative="true" class="fill-green" >}}
 
-### Start
+#### Start
 
 Des **experts** spécialisés dans le boostraping de projet afin de **réaliser un MVP** ou un **POC** («&nbsp;Proof&nbsp;Of&nbsp;Concept&nbsp;»)
 
@@ -169,7 +168,7 @@ Avantages :
 
 {{< svg-inline src="/img/teamwork.svg#Teamwork" decorative="true" class="fill-yellow" >}}
 
-### ScaleUp
+#### ScaleUp
 
 Une **équipe Tech** pour développer l'ensemble de vos **fonctionnalités**. Notre approche personnalisée prend en compte les **exigences** uniques de chacun de nos clients.
 
@@ -186,7 +185,7 @@ Avantages :
 
 {{< svg-inline src="/img/startup.svg#Startup" decorative="true" class="fill-red" >}}
 
-### Rocket
+#### Rocket
 
 Une team de choc, complète, pour concevoir votre **solution** dans les moindres détails. L'**expert métier**, combiné aux **profils tech**, adoptent le chemin optimal.
 
@@ -203,9 +202,9 @@ Avantages :
 {{</ auto-columns >}}
 
 
-#### Dans tous les cas, nous gérons pour vous les **compétences**, chaque membre de nos **équipes**. Vous vous concentrez sur votre **produit**.
+##### Dans tous les cas, nous gérons pour vous les **compétences**, chaque membre de nos **équipes**. Vous vous concentrez sur votre **produit**.
 
-# Nous les avons accompagnés
+## Nous les avons accompagnés
 
 
 {{< auto-columns class="clients mb-5" >}}

@@ -43,6 +43,7 @@ disableKinds:
 - taxonomy
 - rss
 - term
+- section
 
 sitemap:
   changefreq: monthly

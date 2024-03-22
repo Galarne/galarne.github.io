@@ -1,8 +1,7 @@
 ---
 title: "Nos équipes, vos solutions digitales"
-description: "L'éditeur indépendant qui conçoit vos applications"
+description: "Un éditeur indépendant qui conçoit vos applications"
 draft: false
-tags: []
 summary: ""
 container: container-fluid
 ---

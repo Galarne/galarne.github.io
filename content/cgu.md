@@ -1,8 +1,7 @@
 ---
 title: "Conditions Générales d'Utilisation"
-description: "Conditions Générales d'Utilisation de Galarne"
+description: "Mentions légales et Conditions Générales d'Utilisation de Galarne"
 draft: false
-tags: []
 summary: ""
 class: legal
 ---
