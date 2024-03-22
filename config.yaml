@@ -12,6 +12,9 @@ languages:
 
 params:
   tagmanager: GTM-PCVBMHQM
+  pipedrive:
+    company: 11627805
+    playbook: '378d960c-f439-4d89-9e29-8885aab0ce70'
   logo: /img/logo.png
   favicon : true
   useStoryset: 1
