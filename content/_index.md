@@ -9,7 +9,7 @@ pagescript: "home.js"
 
 {{< line-with-picture src="/img/instant-information-pana.svg" decorative="true" >}}
 
-## Les concepteurs de vos applications
+# Les concepteurs de vos applications
 
 **Galarne** vous accompagne de A&nbsp;à&nbsp;Z dans la réalisation de vos **solutions numériques**.
 
@@ -20,7 +20,7 @@ Vous imaginez les **fonctionnalités**, nous forgeons votre **produit**.
 
 {{< line-with-picture position="left" src="/img/sync-cuate.svg" decorative="true" >}}
 
-### Un savoir-faire polyvalent
+## Un savoir-faire polyvalent
 
 Artisans, nous bâtissons des **applications mobile**, **site web** et intranet. Nous réalisons tous types de projets : **logiciel métier**, **outils SaaS**, digitalisation de process...
 
@@ -33,7 +33,7 @@ Avec notre expérience, vous bénéficiez de **compétences tech** et d'**expert
 
 {{< line-with-picture src="/img/qa-engineers-amico.svg" decorative="true" >}}
 
-### Qualité, sécurité et conformité en priorité
+## Qualité, sécurité et conformité en priorité
 
 Nous suivons l'état de l'art en matière de **qualité**, via l'approche **clean code**, ainsi qu'en terme de **sécurité** par le suivi des bonnes pratiques de la communauté **OWASP**.
 
@@ -202,7 +202,7 @@ Avantages :
 {{</ auto-columns >}}
 
 
-##### Dans tous les cas, nous gérons pour vous les **compétences**, chaque membre de nos **équipes**. Vous vous concentrez sur votre **produit**.
+#### Dans tous les cas, nous gérons pour vous les **compétences**, chaque membre de nos **équipes**. Vous vous concentrez sur votre **produit**.
 
 ## Nous les avons accompagnés
 
