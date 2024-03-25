@@ -32,7 +32,7 @@ Vous imaginez les **fonctionnalités**, nous bâtissons vos **produits**.
 
 ## Excellence et expertise à votre service
 
-Nos fondateurs cumulent plus de 30 annnées d'expertises dans **des technologies variées** (C#, ASP.NET, Node.js, React, Flutter...). Ils ont apporté leur expertise à des projets d'envergures dans divers secteurs (aéronautique, immobilier, banques, assurances, médias...). Que vous soyez une **startup dynamique** ou un **grand groupe**, notre objectif est votre réussite.
+Nos fondateurs cumulent plus de 30 années d'expertises dans **des technologies variées** (C#, ASP.NET, Node.js, React, Flutter...). Ils ont apporté leur expertise à des projets d'envergures dans divers secteurs (aéronautique, immobilier, banques, assurances, médias...). Que vous soyez une **startup dynamique** ou un **grand groupe**, notre objectif est votre réussite.
 
 Nous transformons vos concepts en réalités, que vos projets impliquent le  **cloud**, la **data** ou encore l'**intelligence articifielle**. Nous échangeons ensemble sans technicité. Avec nous, **la technologie devient le pinceau qui donne vie à vos idées**.
 
@@ -44,7 +44,7 @@ Nous transformons vos concepts en réalités, que vos projets impliquent le  **c
 
 <br>
 
-Notre équipe travaille pour vous en toute **agilité**. Spécialistes de l'innovation, ils vous proposent des fonctionalités adpatées à votre besoin, votre budget et vos délais.
+Notre équipe travaille pour vous en toute **agilité**. Spécialistes de l'innovation, ils vous proposent des fonctionnalités adaptées à votre besoin, votre budget et vos délais.
 
 Que vous cherchiez un **CTO**, un expert **UI/UX**, un **Product Owner** ou d'un développeur **full stack**, l'équipe s'adapte et possède toujours **les compétences dont vous avez besoin**. Nous prenons en charge la gestion de l'équipe, vous libérant ainsi pour vous concentrer sur votre vision.
 
