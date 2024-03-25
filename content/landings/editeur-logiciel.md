@@ -32,15 +32,15 @@ Vous imaginez les **fonctionnalités**, nous bâtissons vos **produits**.
 
 ## Excellence et expertise à votre service
 
-Nos fondateurs cumulent plus de 30 années d'expertises dans **des technologies variées** (C#, ASP.NET, Node.js, React, Flutter...). Ils ont apporté leur expertise à des projets d'envergures dans divers secteurs (aéronautique, immobilier, banques, assurances, médias...). Que vous soyez une **startup dynamique** ou un **grand groupe**, notre objectif est votre réussite.
+Nos fondateurs cumulent plus de 30 années d'expertises dans **des technologies variées** (C#, ASP.NET, Node.js, React.js, Flutter...). Ils ont apporté leur expertise à des projets d'envergures dans divers secteurs (aéronautique, immobilier, banques, assurances, médias...). Que vous soyez une **startup dynamique** ou un **grand groupe**, notre objectif est votre réussite.
 
-Nous transformons vos concepts en réalités, que vos projets impliquent le  **cloud**, la **data** ou encore l'**intelligence articifielle**. Nous échangeons ensemble sans technicité. Avec nous, **la technologie devient le pinceau qui donne vie à vos idées**.
+Nous transformons vos concepts en réalités, que vos projets impliquent le  **cloud**, la **data** ou encore l'**intelligence artificielle**. Nous échangeons ensemble sans technicité. Avec nous, **la technologie devient le pinceau qui donne vie à vos idées**.
 
 {{</ line-with-picture >}}
 
 {{< line-with-picture  src="/img/terrain.svg" decorative="true" container=true >}}
 
-## Un équipe clés en main à votre disposition
+## Une équipe clés en main à votre disposition
 
 <br>
 
@@ -84,7 +84,7 @@ Au cours de l'année suivante, avec 30 mises à jour majeures, notre solution pe
 Les plus de ce projet :
 
 - **Engagement RSE :** Suppression de l'utilisation du papier, alignée avec une démarche respectueuse de l'environnement.
-- **Relations Commerciales Renforcées :** Accès en temps réel aux stock pour les clients, améliorant la transparence et la confiance.
+- **Relations Commerciales Renforcées :** Accès en temps réel aux stocks pour les clients, améliorant la transparence et la confiance.
 - **Conformité et Traçabilité :** Audit toutes les opérations assurant une conformité exemplaire et une sécurité accrue des processus.
 
 </div>

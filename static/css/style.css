@@ -68,7 +68,7 @@
 
   main>.row:nth-child(1) {
       margin-top: 40px;
-      margin-bottom: 120px;
+      /* margin-bottom: 120px; */
       font-size: 2rem;
       line-height: 2.5rem;
   }
@@ -351,7 +351,7 @@ use.fill-yellow {
       h2,
       h3,
       h4 {
-          margin-top: calc(5 * var(--bs-gutter-x));
+          margin-top: calc(2 * var(--bs-gutter-x));
       }
 
       .services>svg {
@@ -365,6 +365,11 @@ use.fill-yellow {
 
       .custom-tooltip>div.active {
           display: block;
+      }
+
+      .container~.container {
+          margin-top: var(--bs-gutter-x);
+          margin-bottom: var(--bs-gutter-x);
       }
   }
 
