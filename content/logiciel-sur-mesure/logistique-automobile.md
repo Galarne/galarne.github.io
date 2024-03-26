@@ -68,9 +68,9 @@ L'**intranet** et l'**application Android** sont développées en **Flutter** af
 
 Les composants avec une forte valeur ajoutée sont conçus en **C#&nbsp;Core**. Les composants génériques sont en **Node.js**.
 
-Seul les composants **C#** accèdent à la base de données.
+Seuls les composants **C#** accèdent à la base de données.
 
-L'ensemble des communications sont **chiffrées** et nécéssitent d'être **authentifiées**.
+L'ensemble des communications sont **chiffrées** et nécessitent d'être **authentifiées**.
 
 Le tout est déployé dans notre **cluster Kubernetes** afin d'assurer un **niveau de service** optimal.
 
