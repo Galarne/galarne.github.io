@@ -4,6 +4,9 @@ description: "Mentions légales et Conditions Générales d'Utilisation de Galar
 draft: false
 summary: ""
 class: legal
+sitemap:
+  changefreq: yearly
+  priority: 0
 ---
 
 Date d'entrée en vigueur : 09 mars 2023

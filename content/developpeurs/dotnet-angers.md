@@ -4,6 +4,9 @@ description: "Des experts C#, Asp.net, Dotnet core pour accompagner vos dévelop
 draft: false
 summary: ""
 container: container-fluid
+sitemap:
+  changefreq: yearly
+  priority: 0.5
 ---
 
 

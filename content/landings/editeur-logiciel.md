@@ -4,6 +4,10 @@ description: "Un éditeur indépendant qui conçoit vos applications"
 draft: false
 summary: ""
 container: container-fluid
+hide_toc: true
+sitemap:
+  changefreq: yearly
+  priority: 0.5
 ---
 
 {{< line-with-picture src="/img/screens.svg" decorative="true" class="text-start" container=true >}}
@@ -86,6 +90,8 @@ Les plus de ce projet :
 - **Engagement RSE :** Suppression de l'utilisation du papier, alignée avec une démarche respectueuse de l'environnement.
 - **Relations Commerciales Renforcées :** Accès en temps réel aux stocks pour les clients, améliorant la transparence et la confiance.
 - **Conformité et Traçabilité :** Audit toutes les opérations assurant une conformité exemplaire et une sécurité accrue des processus.
+
+[Découvrir ce cas en détail](/logiciel-sur-mesure/logistique-automobile/)
 
 </div>
 </div>

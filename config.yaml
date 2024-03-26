@@ -29,8 +29,13 @@ params:
     company: Galarne SAS
 
   nav:
+    - title: Accueil
+      link: /
+    - title: Cas client
+      link: "/logiciel-sur-mesure/logistique-automobile/"
     - title: Nous Contacter
-      link: "/nous-contacter"
+      link: "/nous-contacter/"
+      class: button
 
   footer:
     nav:

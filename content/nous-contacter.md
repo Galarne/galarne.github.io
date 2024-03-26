@@ -6,6 +6,9 @@ tags: []
 summary: ""
 class: sweet-home
 pagescript: "home.js"
+sitemap:
+  changefreq: yearly
+  priority: 0.6
 ---
 
 

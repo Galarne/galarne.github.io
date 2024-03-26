@@ -187,14 +187,24 @@ use.fill-yellow {
       border: none !important;
   }
 
-  .navbar li a {
+  .navbar li.button a {
       background-color: var(--theme-blue);
       font-weight: bold;
   }
 
   .navbar li a:hover {
-      color: white;
+      text-decoration: underline;
   }
+
+  .navbar li.button a:hover {
+      color: white;
+      text-decoration: none;
+  }
+
+  .navbar li.active a {
+      font-weight: bold;
+  }
+
 
   .clients {
       text-align: center;

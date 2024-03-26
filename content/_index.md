@@ -5,6 +5,9 @@ draft: false
 summary: ""
 class: sweet-home
 pagescript: "home.js"
+sitemap:
+  changefreq: weekly
+  priority: 1
 ---
 
 {{< line-with-picture src="/img/instant-information-pana.svg" decorative="true" >}}
