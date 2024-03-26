@@ -214,6 +214,10 @@ use.fill-yellow {
       max-height: 75px;
   }
 
+  .content>img {
+      max-width: 95%;
+  }
+
 
   .tile h4,
   .custom-tooltip>div>h3 {
