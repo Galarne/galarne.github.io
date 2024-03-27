@@ -6,7 +6,7 @@ summary: ""
 container: container-fluid
 hide_toc: true
 sitemap:
-  changefreq: yearly
+  changefreq: monthly
   priority: 0.5
 ---
 

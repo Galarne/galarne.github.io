@@ -5,8 +5,8 @@ draft: false
 summary: ""
 container: container-fluid
 sitemap:
-  changefreq: yearly
-  priority: 0.5
+  changefreq: monthly
+  priority: 0.6
 ---
 
 
